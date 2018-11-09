@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Termin1/Termin 1 - Vererbung.iml" filepath="$PROJECT_DIR$/Termin1/Termin 1 - Vererbung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Termin2/Termin 2 - Exceptions.iml" filepath="$PROJECT_DIR$/Termin2/Termin 2 - Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Termin3/Termin 3 - Streams.iml" filepath="$PROJECT_DIR$/Termin3/Termin 3 - Streams.iml" />
+    </modules>
+  </component>
+</project>
