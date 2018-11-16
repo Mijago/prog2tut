@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Termin1/Termin 1 - Vererbung.iml" filepath="$PROJECT_DIR$/Termin1/Termin 1 - Vererbung.iml" />
       <module fileurl="file://$PROJECT_DIR$/Termin2/Termin 2 - Exceptions.iml" filepath="$PROJECT_DIR$/Termin2/Termin 2 - Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Termin3/Termin 3 - Streams.iml" filepath="$PROJECT_DIR$/Termin3/Termin 3 - Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Termin4/Termin 4 - Serialisierung und Tests.iml" filepath="$PROJECT_DIR$/Termin4/Termin 4 - Serialisierung und Tests.iml" />
     </modules>
   </component>
 </project>

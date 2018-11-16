@@ -9,12 +9,14 @@
         <module name="Termin 1 - Vererbung" />
         <module name="Termin 2 - Exceptions" />
         <module name="Termin 3 - Streams" />
+        <module name="Termin 4 - Serialisierung und Tests" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Termin 1 - Vererbung" target="8" />
-      <module name="Termin 2 - Exceptions" target="8" />
-      <module name="Termin 3 - Streams" target="8" />
+      <module name="Termin 1 - Vererbung" target="1.8" />
+      <module name="Termin 2 - Exceptions" target="1.8" />
+      <module name="Termin 3 - Streams" target="1.8" />
+      <module name="Termin 4 - Serialisierung und Tests" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
