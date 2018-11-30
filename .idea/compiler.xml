@@ -10,6 +10,7 @@
         <module name="Termin 2 - Exceptions" />
         <module name="Termin 3 - Streams" />
         <module name="Termin 4 - Serialisierung und Tests" />
+        <module name="Termin 5 - Generics und Collections" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="Termin 2 - Exceptions" target="1.8" />
       <module name="Termin 3 - Streams" target="1.8" />
       <module name="Termin 4 - Serialisierung und Tests" target="1.8" />
+      <module name="Termin 5 - Generics und Collections" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
