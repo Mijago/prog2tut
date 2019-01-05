@@ -12,6 +12,8 @@
         <module name="Termin 4 - Serialisierung und Tests" />
         <module name="Termin 5 - Generics und Collections" />
         <module name="Termin 6 - BuilderPattern, Iterator, Comparable" />
+        <module name="Termin 7 - Builder, Visitor, Threads" />
+        <module name="Termin8" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,7 +22,9 @@
       <module name="Termin 3 - Streams" target="1.8" />
       <module name="Termin 4 - Serialisierung und Tests" target="1.8" />
       <module name="Termin 5 - Generics und Collections" target="1.8" />
-      <module name="Termin 6 - BuilderPattern, Iterator, Comparable" target="1.5" />
+      <module name="Termin 6 - BuilderPattern, Iterator, Comparable" target="1.8" />
+      <module name="Termin 7 - Builder, Visitor, Threads" target="1.8" />
+      <module name="Termin8" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

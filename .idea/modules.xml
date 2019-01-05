@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/Termin4/Termin 4 - Serialisierung und Tests.iml" filepath="$PROJECT_DIR$/Termin4/Termin 4 - Serialisierung und Tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/Termin5/Termin 5 - Generics und Collections.iml" filepath="$PROJECT_DIR$/Termin5/Termin 5 - Generics und Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Termin6/Termin 6 - BuilderPattern, Iterator, Comparable.iml" filepath="$PROJECT_DIR$/Termin6/Termin 6 - BuilderPattern, Iterator, Comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Termin7/Termin 7 - Builder, Visitor, Threads.iml" filepath="$PROJECT_DIR$/Termin7/Termin 7 - Builder, Visitor, Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Termin8/Termin8.iml" filepath="$PROJECT_DIR$/Termin8/Termin8.iml" />
     </modules>
   </component>
 </project>
