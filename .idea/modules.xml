@@ -3,14 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Termin1/Termin 1 - Vererbung.iml" filepath="$PROJECT_DIR$/Termin1/Termin 1 - Vererbung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Termin10/Termin 10 - Übungen Exam und RouletteIterator.iml" filepath="$PROJECT_DIR$/Termin10/Termin 10 - Übungen Exam und RouletteIterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Termin2/Termin 2 - Exceptions.iml" filepath="$PROJECT_DIR$/Termin2/Termin 2 - Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Termin3/Termin 3 - Streams.iml" filepath="$PROJECT_DIR$/Termin3/Termin 3 - Streams.iml" />
       <module fileurl="file://$PROJECT_DIR$/Termin4/Termin 4 - Serialisierung und Tests.iml" filepath="$PROJECT_DIR$/Termin4/Termin 4 - Serialisierung und Tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/Termin5/Termin 5 - Generics und Collections.iml" filepath="$PROJECT_DIR$/Termin5/Termin 5 - Generics und Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Termin6/Termin 6 - BuilderPattern, Iterator, Comparable.iml" filepath="$PROJECT_DIR$/Termin6/Termin 6 - BuilderPattern, Iterator, Comparable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Termin7/Termin 7 - Builder, Visitor, Threads.iml" filepath="$PROJECT_DIR$/Termin7/Termin 7 - Builder, Visitor, Threads.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Termin 9/Termin 9.iml" filepath="$PROJECT_DIR$/Termin 9/Termin 9.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Termin8/Termin8.iml" filepath="$PROJECT_DIR$/Termin8/Termin8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Termin8/Termin 8 - Übung TwotterSystem.iml" filepath="$PROJECT_DIR$/Termin8/Termin 8 - Übung TwotterSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Termin9/Termin 9 - Übung IBAN.iml" filepath="$PROJECT_DIR$/Termin9/Termin 9 - Übung IBAN.iml" />
     </modules>
   </component>
 </project>
