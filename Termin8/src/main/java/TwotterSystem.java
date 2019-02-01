@@ -2,6 +2,7 @@ import java.util.*;
 
 public class TwotterSystem {
     List<User> users = new ArrayList<>();
+
     // Alternativ: Username (String) als key
     Map<User, List<Message>> userMessages = new HashMap<>();
 
@@ -28,8 +29,8 @@ public class TwotterSystem {
     public List<Message> getAllMessages() {
         List<Message> result = new ArrayList<>();
 
-        Collection<List<Message>> map = userMessages.values();
-        for (List<Message> list : map) {
+        Collection<List<Message>> collection = userMessages.values();
+        for (List<Message> list : collection) {
             for (Message message : list) {
                 result.add(message);
             }

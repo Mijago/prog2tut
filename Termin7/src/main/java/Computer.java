@@ -10,10 +10,26 @@ public class Computer {
         this.hersteller = hersteller;
         this.betriebssystem = betriebssystem;
     }
+
     public void ausfuehren(Programm programm) {
         for (int n = 0; n < kernAnzahl; n++) {
-            Thread t = new Thread(() -> {
-                programm.macheDinge();
+            Thread t = new Thread(new Runnable() {
+                @Override
+                public void run() {
+                    try {
+                        // Simuliere das Warten je nach Betriebssystem
+                        switch (betriebssystem) {
+                            case Windows10:
+                                Thread.sleep(100);
+                                break;
+                            case WindowsXP:
+                                Thread.sleep(5000);
+                        }
+                        programm.macheDinge();
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
+                }
             });
             t.start();
         }
@@ -21,18 +37,18 @@ public class Computer {
 }
 
 /**
- Thread t = new Thread(() -> {
- try {
- switch (betriebssystem) {
- case Windows10:
- Thread.sleep(100);
- break;
- case WindowsXP:
- Thread.sleep(5000);
- }
- programm.macheDinge();
- } catch (InterruptedException e) {
- e.printStackTrace();
- }
- });
+ * Thread t = new Thread(() -> {
+ * try {
+ * switch (betriebssystem) {
+ * case Windows10:
+ * Thread.sleep(100);
+ * break;
+ * case WindowsXP:
+ * Thread.sleep(5000);
+ * }
+ * programm.macheDinge();
+ * } catch (InterruptedException e) {
+ * e.printStackTrace();
+ * }
+ * });
  */

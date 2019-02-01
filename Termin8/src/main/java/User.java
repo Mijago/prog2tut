@@ -9,6 +9,10 @@ public class User implements Serializable, Comparable<User> {
         passwort = pw;
     }
 
+    public String getBenutzename() {
+        return benutzename;
+    }
+
     @Override
     public int compareTo(User u) {
         /*

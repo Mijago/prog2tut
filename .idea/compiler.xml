@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Termin 1 - Vererbung" />
+        <module name="Termin 10 - Übungen Exam und RouletteIterator" />
+        <module name="Termin 11 - Prüfungsvorbereitung" />
         <module name="Termin 2 - Exceptions" />
         <module name="Termin 3 - Streams" />
         <module name="Termin 4 - Serialisierung und Tests" />
@@ -15,11 +17,12 @@
         <module name="Termin 7 - Builder, Visitor, Threads" />
         <module name="Termin 8 - Übung TwotterSystem" />
         <module name="Termin 9 - Übung IBAN" />
-        <module name="Termin 10 - Übungen Exam und RouletteIterator" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Termin 1 - Vererbung" target="1.8" />
+      <module name="Termin 10 - Übungen Exam und RouletteIterator" target="1.8" />
+      <module name="Termin 11 - Prüfungsvorbereitung" target="1.8" />
       <module name="Termin 2 - Exceptions" target="1.8" />
       <module name="Termin 3 - Streams" target="1.8" />
       <module name="Termin 4 - Serialisierung und Tests" target="1.8" />
@@ -28,7 +31,6 @@
       <module name="Termin 7 - Builder, Visitor, Threads" target="1.8" />
       <module name="Termin 8 - Übung TwotterSystem" target="1.8" />
       <module name="Termin 9 - Übung IBAN" target="1.8" />
-      <module name="Termin 10 - Übungen Exam und RouletteIterator" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
