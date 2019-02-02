@@ -17,6 +17,7 @@
         <module name="Termin 7 - Builder, Visitor, Threads" />
         <module name="Termin 8 - Übung TwotterSystem" />
         <module name="Termin 9 - Übung IBAN" />
+        <module name="Uebung Streamverdoppler" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -31,6 +32,7 @@
       <module name="Termin 7 - Builder, Visitor, Threads" target="1.8" />
       <module name="Termin 8 - Übung TwotterSystem" target="1.8" />
       <module name="Termin 9 - Übung IBAN" target="1.8" />
+      <module name="Uebung Streamverdoppler" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
